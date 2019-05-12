@@ -1,0 +1,31 @@
+.con{
+  line-height:70rpx;
+}
+
+.con view{
+  width:700rpx;
+  margin-left:30rpx;
+  border-bottom:1px solid #f2f2f2;
+}
+
+.con view text{
+  font-size: 32rpx;
+}
+
+.con-nr input{
+  width:500rpx;
+  float:right;
+  font-size:28rpx;
+  height: 70rpx;
+}
+
+
+
+.sub{
+  width:500rpx;
+  line-height:85rpx;
+  text-align:center;
+  margin:50rpx auto;
+  background-color:#1AAD19;
+  border-radius:10rpx;
+}

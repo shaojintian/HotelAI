@@ -1,0 +1,24 @@
+<form bindsubmit='sub'>
+  <view class="con">
+    <view class="con-nr">
+      <text>联系人</text>
+      <input placeholder='zhang7' name="name"></input>
+    </view>
+    <view class="con-nr">
+      <text>电话</text>
+      <input placeholder="15295037757" name="telephone"></input>
+    </view>
+    <view class="con-nr">
+      <text>日期</text>
+      <input placeholder="2019-05-12" name="address" value="{{markers[0]['address']}}"></input>
+    </view>
+    <view class="con-nr">
+      <text>酒店详细地址</text>
+      <input placeholder="北京市-全季酒店" name="detailedaddress" value=""></input>
+    </view>
+  </view>
+
+  <button class="sub" form-type='submit'>
+    确定
+  </button>
+</form>

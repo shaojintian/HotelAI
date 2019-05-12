@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/edit/edit",
+    "pages/form/form"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#FAFAFA",
+    "navigationBarBackgroundColor": "#FAFAFA",
+    "navigationBarTitleText": "语音小助手HotelAI",
+    "navigationBarTextStyle": "black"
+  },
+  "plugins": {
+    "WechatSI": {
+      "version": "0.0.6",
+      "provider": "wx069ba97219f66d99"
+    }
+  }
+}
