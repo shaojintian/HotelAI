@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/edit/edit",
-    "pages/form/form"
+    "pages/form/form",
+    "pages/FormM/FormM"
   ],
   "window": {
     "backgroundTextStyle": "light",

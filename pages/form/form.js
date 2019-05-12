@@ -10,6 +10,12 @@ Page({
   sub: function (e) {
     console.log(e.detail.value)
   }
+  ,
+  roomControl:function(e){
 
+    wx.navigateTo({
+      url: '/pages/FormM/FormM',
+    })
+  }
 
 })

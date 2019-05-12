@@ -21,4 +21,10 @@
   <button class="sub" form-type='submit'>
     确定
   </button>
+
+   <button class="sub" form-type='submit' bindtap='roomControl'>
+    房间控制
+  </button>
+
+  
 </form>
